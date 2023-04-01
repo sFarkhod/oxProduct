@@ -1,0 +1,21 @@
+.Test {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.inputSearch {
+    margin-top: 10px;
+}
+
+.dataTable {
+    margin-top: 10px;
+}
+
+.anotherSearch {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
